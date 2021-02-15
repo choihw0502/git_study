@@ -13,3 +13,8 @@ def divide(a, b):
 
 def margeTest(a, b):
 	return "Git Marge Test"+ a + b
+
+def funTest():
+	result = "It is test String"
+	return result
+
