@@ -7,3 +7,7 @@ def subtract(a, b):
 
 def devide(a, b):
 	return a/b
+
+def funTest():
+	result = "It is test String"
+	return result
